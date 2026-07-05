@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/baik0804/JMLeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
