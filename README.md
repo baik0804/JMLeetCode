@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/baik0804/JMLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
