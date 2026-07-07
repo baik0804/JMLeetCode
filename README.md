@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/baik0804/JMLeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,5 +66,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/baik0804/JMLeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
