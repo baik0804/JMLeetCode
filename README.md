@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/baik0804/JMLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/baik0804/JMLeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/baik0804/JMLeetCode/tree/master/1920-build-array-from-permutation) |
@@ -60,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
+| [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
