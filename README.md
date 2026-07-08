@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/baik0804/JMLeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/baik0804/JMLeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,12 +87,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/baik0804/JMLeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
