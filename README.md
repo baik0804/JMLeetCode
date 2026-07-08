@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,11 +52,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baik0804/JMLeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
@@ -79,6 +82,11 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
