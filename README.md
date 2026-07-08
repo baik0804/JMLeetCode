@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baik0804/JMLeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -77,5 +79,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
