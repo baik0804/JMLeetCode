@@ -27,12 +27,14 @@
 | [1920-build-array-from-permutation](https://github.com/baik0804/JMLeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/baik0804/JMLeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baik0804/JMLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2574-left-and-right-sum-differences](https://github.com/baik0804/JMLeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/baik0804/JMLeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/baik0804/JMLeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
