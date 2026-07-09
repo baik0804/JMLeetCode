@@ -23,6 +23,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/baik0804/JMLeetCode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/baik0804/JMLeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/baik0804/JMLeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/baik0804/JMLeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baik0804/JMLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/baik0804/JMLeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
