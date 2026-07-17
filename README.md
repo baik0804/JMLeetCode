@@ -51,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/baik0804/JMLeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/baik0804/JMLeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
@@ -104,6 +105,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/baik0804/JMLeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/baik0804/JMLeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baik0804/JMLeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
