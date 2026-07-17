@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -84,6 +85,7 @@
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/baik0804/JMLeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0088-merge-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/baik0804/JMLeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
