@@ -52,6 +52,7 @@
 | [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/baik0804/JMLeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/baik0804/JMLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baik0804/JMLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/baik0804/JMLeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
