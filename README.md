@@ -51,6 +51,7 @@
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -72,11 +73,13 @@
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/baik0804/JMLeetCode/tree/master/0383-ransom-note) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/baik0804/JMLeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baik0804/JMLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
