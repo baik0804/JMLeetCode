@@ -16,10 +16,7 @@ class Solution {
                 end = i;
             }
             else{
-                for(int j=start;j<index[chars[i]];j++){
-                    index[chars[j]] = -1;
-                }
-                start = index[chars[i]]+1;
+                start = Math.max(start,index[chars[i]]+1);
                 index[chars[i]] = i;
                 end = i;
             }
