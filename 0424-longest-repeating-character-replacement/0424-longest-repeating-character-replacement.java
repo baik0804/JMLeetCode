@@ -19,7 +19,7 @@ class Solution {
             else{
                 freq.put(words[right], 1);
             }
-            maxFreq = Math.max(maxFreq, Collections.max(freq.values()));
+            maxFreq = Math.max(maxFreq, freq.get(words[right]));
             currLen++;
 
             if(k<currLen-maxFreq){
