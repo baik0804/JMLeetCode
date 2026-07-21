@@ -65,6 +65,7 @@
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/baik0804/JMLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/baik0804/JMLeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/baik0804/JMLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/baik0804/JMLeetCode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/baik0804/JMLeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -172,4 +173,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/baik0804/JMLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
