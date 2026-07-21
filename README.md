@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baik0804/JMLeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/baik0804/JMLeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/baik0804/JMLeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/baik0804/JMLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/baik0804/JMLeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/baik0804/JMLeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/baik0804/JMLeetCode/tree/master/0205-isomorphic-strings) |
@@ -178,4 +180,8 @@
 | [0020-valid-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/baik0804/JMLeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/baik0804/JMLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/baik0804/JMLeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
