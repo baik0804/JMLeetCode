@@ -21,6 +21,7 @@
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/baik0804/JMLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/baik0804/JMLeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -196,6 +197,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/baik0804/JMLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/baik0804/JMLeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/baik0804/JMLeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/baik0804/JMLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -210,4 +212,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
