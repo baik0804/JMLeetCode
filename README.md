@@ -186,6 +186,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/baik0804/JMLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/baik0804/JMLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/baik0804/JMLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/baik0804/JMLeetCode/tree/master/0933-number-of-recent-calls) |
@@ -200,6 +201,7 @@
 | [0020-valid-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/baik0804/JMLeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/baik0804/JMLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/baik0804/JMLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/baik0804/JMLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/baik0804/JMLeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/baik0804/JMLeetCode/tree/master/0402-remove-k-digits) |
@@ -228,6 +230,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/baik0804/JMLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/baik0804/JMLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/baik0804/JMLeetCode/tree/master/0933-number-of-recent-calls) |
