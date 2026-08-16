@@ -13,7 +13,7 @@ class Solution {
             stack.push(c);
         }
 
-        while(k>0 && !stack.isEmpty()){
+        while(k>0){
             stack.pop();
             k--;
         }
