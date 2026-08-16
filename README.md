@@ -199,6 +199,7 @@
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/baik0804/JMLeetCode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/baik0804/JMLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -213,4 +214,13 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
