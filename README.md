@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/baik0804/JMLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/baik0804/JMLeetCode/tree/master/0905-sort-array-by-parity) |
@@ -107,6 +108,7 @@
 | [0409-longest-palindrome](https://github.com/baik0804/JMLeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/baik0804/JMLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/baik0804/JMLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/baik0804/JMLeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -193,6 +195,7 @@
 | [0071-simplify-path](https://github.com/baik0804/JMLeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/baik0804/JMLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/baik0804/JMLeetCode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/baik0804/JMLeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/baik0804/JMLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/baik0804/JMLeetCode/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
