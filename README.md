@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/baik0804/JMLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/baik0804/JMLeetCode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -226,8 +227,10 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/baik0804/JMLeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/baik0804/JMLeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/baik0804/JMLeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
