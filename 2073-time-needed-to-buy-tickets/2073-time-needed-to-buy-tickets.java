@@ -3,20 +3,16 @@ import java.util.Deque;
 
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
-        int numberOfTickets = tickets.length;
         int time = 0;
-        int currentIdx = 0;
+        int len = tickets.length;
         
-        while(true){
-            if(tickets[currentIdx] <= 0){}
-            else{
-                tickets[currentIdx]--;
-                time++;
-                if(tickets[currentIdx] == 0 && currentIdx == k){
-                    break;
-                }
+        for(int i = 0; i < len; i++){
+            if(i<=k){
+                time += Math.min(tickets[i], tickets[k]);
             }
-            currentIdx = (currentIdx + 1) % numberOfTickets;
+            else{
+                time += Math.min(tickets[i], tickets[k]-1);
+            }
         }
         return time;
     }
