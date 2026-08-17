@@ -34,6 +34,7 @@
 | [1920-build-array-from-permutation](https://github.com/baik0804/JMLeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/baik0804/JMLeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baik0804/JMLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2073-time-needed-to-buy-tickets](https://github.com/baik0804/JMLeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2574-left-and-right-sum-differences](https://github.com/baik0804/JMLeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -92,6 +93,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/baik0804/JMLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/baik0804/JMLeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/baik0804/JMLeetCode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/baik0804/JMLeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/baik0804/JMLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/baik0804/JMLeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/baik0804/JMLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/baik0804/JMLeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
