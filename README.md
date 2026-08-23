@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/baik0804/JMLeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/baik0804/JMLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/baik0804/JMLeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/baik0804/JMLeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/baik0804/JMLeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/baik0804/JMLeetCode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -256,6 +258,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/baik0804/JMLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/baik0804/JMLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,4 +268,9 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/baik0804/JMLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
