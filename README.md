@@ -26,6 +26,7 @@
 | [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/baik0804/JMLeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/baik0804/JMLeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/baik0804/JMLeetCode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/baik0804/JMLeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/baik0804/JMLeetCode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/baik0804/JMLeetCode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -259,6 +261,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/baik0804/JMLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/baik0804/JMLeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/baik0804/JMLeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
