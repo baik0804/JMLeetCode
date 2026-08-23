@@ -57,6 +57,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/baik0804/JMLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/baik0804/JMLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/baik0804/JMLeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -137,6 +138,7 @@
 | [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/baik0804/JMLeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
@@ -261,6 +263,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/baik0804/JMLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/baik0804/JMLeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
 | [0994-rotting-oranges](https://github.com/baik0804/JMLeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -276,4 +279,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/baik0804/JMLeetCode/tree/master/0200-number-of-islands) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
