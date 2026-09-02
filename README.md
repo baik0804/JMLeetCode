@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/baik0804/JMLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/baik0804/JMLeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/baik0804/JMLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/baik0804/JMLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/baik0804/JMLeetCode/tree/master/0739-daily-temperatures) |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/baik0804/JMLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/baik0804/JMLeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/baik0804/JMLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/baik0804/JMLeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -126,6 +128,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/baik0804/JMLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/baik0804/JMLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/baik0804/JMLeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/baik0804/JMLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/baik0804/JMLeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/baik0804/JMLeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/baik0804/JMLeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
