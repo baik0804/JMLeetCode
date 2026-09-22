@@ -65,6 +65,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/baik0804/JMLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/baik0804/JMLeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/baik0804/JMLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -80,6 +81,7 @@
 | [0071-simplify-path](https://github.com/baik0804/JMLeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/baik0804/JMLeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/baik0804/JMLeetCode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/baik0804/JMLeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/baik0804/JMLeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/baik0804/JMLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -153,6 +155,7 @@
 | [0118-pascals-triangle](https://github.com/baik0804/JMLeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/baik0804/JMLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baik0804/JMLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/baik0804/JMLeetCode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/baik0804/JMLeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/baik0804/JMLeetCode/tree/master/0392-is-subsequence) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/baik0804/JMLeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/baik0804/JMLeetCode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -332,4 +337,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baik0804/JMLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/baik0804/JMLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
